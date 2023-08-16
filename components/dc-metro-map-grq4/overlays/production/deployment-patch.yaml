@@ -4,6 +4,7 @@ metadata:
   creationTimestamp: null
   name: dc-metro-map-grq4
 spec:
+  replicas: 1
   selector: {}
   strategy: {}
   template:
